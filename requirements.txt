@@ -1,2 +1,0 @@
-python -m venv --copies /opt/venv && . /opt/venv/bin/activate && pip install -r requirements.txt
-pip install flask line-bot-sdk google-api-python-client
